@@ -10,3 +10,6 @@ The Python Bank App offers the following features:
 
 Account Creation: Users can create new bank accounts by providing a unique account number, initial deposit amount
 Deposit and Withdraw: Account holders can deposit funds into their accounts or withdraw funds as needed.
+
+# Bank App Technologies 
+The code was wriiten with python programming language. The tkinter module in python was ued to create the application as it allows fast and easy creation of graphic user interface applications like this one
